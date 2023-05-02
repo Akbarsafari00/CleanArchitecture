@@ -1,0 +1,11 @@
+/CleanArchitecture.Application/bin/
+/CleanArchitecture.Application/obj/
+
+/CleanArchitecture.Domain/bin/
+/CleanArchitecture.Domain/obj/
+
+/CleanArchitecture.Infrastructure/bin/
+/CleanArchitecture.Infrastructure/obj/
+
+/.idea
+
