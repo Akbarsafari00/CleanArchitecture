@@ -3,7 +3,7 @@ using CleanArchitecture.Domain.Entities;
 
 namespace CleanArchitecture.Domain.Repositories;
 
-public interface IUserRepository : IRepository<Users>
+public interface IUserRepository : IRepository<User>
 {
     
 }

@@ -5,5 +5,5 @@ namespace CleanArchitecture.Domain.Services.Contracts;
 
 public interface IVerificationDomainService
 {
-    Task<VerificationCode> GenerateCodeForUserAsync(Users users , CancellationToken cancellationToken = default);
+    Task<VerificationCode> GenerateCodeForUserAsync(User user , CancellationToken cancellationToken = default);
 }
